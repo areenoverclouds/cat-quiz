@@ -2,7 +2,7 @@ export default [
     {
         id: 0,
         name: "Orange",
-        description: "Orange cats prioritize their comfort over anything else. You always look good and you're aware of that. Other cats are jealous of you. Orange cats may be a little self-contained but they it like when people initiate a conversation with them.",
+        description: "Orange cats prioritize their comfort over anything else. You always look good and you're aware of that. Other cats are jealous of you. Orange cats may be a little self-contained but they like it when people initiate a conversation with them.",
         image: "https://iili.io/HXYwrb9.jpg"
     },
     {
